@@ -1,7 +1,7 @@
 <?php
 $db_host="localhost"; //localhost server 
 $db_user="root";	//database username
-$db_password="root";	//database password   
+$db_password="root";	//database password  tentative
 $db_name="portfolio";	//database name
 
 try
